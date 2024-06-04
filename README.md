@@ -2,6 +2,7 @@
 
 I used Python to wrangle and analyze several datasets for Instacart. I then created a report that communicates my analysis process and my results and recommendations to key business questions from Instacart.
 
+![Instacart](https://github.com/Mwayi011/Insacart-Basket-Analysis-Python/assets/162637586/3de3cd9c-f74c-4f82-a4c1-e8fe0a0d8531)
 
 **Objective**
 
